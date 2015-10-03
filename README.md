@@ -1,5 +1,6 @@
-Soubory
-=======
+Testovanie posielania emailov
+===
+Testovanie posielania emailov v eshope pomocou PHP Unit.
 
 tests
   `
